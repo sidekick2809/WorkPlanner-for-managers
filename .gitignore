@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+app/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Yerel ayarlar
+local.properties
+.idea/
+*.iml
+
+# Derleme çıktıları
+*.apk
+*.aab
+*.keystore
+!dist/*.apk
+
+# Python (simge üretimi)
+.venv/
+__pycache__/
+
+# macOS
+.DS_Store
+._*

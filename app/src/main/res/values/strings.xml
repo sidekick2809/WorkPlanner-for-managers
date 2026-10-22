@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Work Planner</string>
+    <string name="notification_channel_name">İş hatırlatıcıları</string>
+    <string name="notification_channel_description">Zamanı gelen işler için bildirimler</string>
+    <string name="notification_title">%1$s · hatırlatıcı</string>
+    <string name="notification_title_fallback">İş hatırlatıcısı</string>
+    <string name="notification_body_fallback">“%1$s” işinin zamanı geldi.</string>
+</resources>
